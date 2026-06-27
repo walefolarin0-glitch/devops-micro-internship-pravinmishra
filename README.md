@@ -13,11 +13,11 @@
 
 | | |
 |---|---|
-| **Name** | Pravin Mishra |
-| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) |
-| **Location** | Helsinki, Finland |
-| **Background** | Cloud, DevOps & AI Consultant |
-| **Goal** | Train 10,000+ DevOps professionals |
+| **Name** | Wale Folarin |
+| **LinkedIn** | [wale-folarin-956b6022a](linkedin.com/in/wale-folarin-956b6022a) |
+| **Location** | Lagos, Nigeria |
+| **Background** | Cloud, DevOps Engineer |
+| **Goal** | Break, Build, Secure and Deploy |
 
 ---
 

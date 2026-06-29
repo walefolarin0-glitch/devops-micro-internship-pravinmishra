@@ -65,11 +65,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Success comes from consistency.
 
 ### Evidence from my life
 
-Add your answer here...
+I focused on improving one skill at a time and staying consistent. Over the years, those small daily improvements opened doors I never imagined and taught me that persistence beats prestige.
 
 ---
 
@@ -77,11 +77,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+People remember how I make them feel
 
 ### Evidence from my life
 
-Add your answer here...
+There were times when projects became stressful and deadlines were tight. I noticed that the moments that strengthened my career weren't always the technical wins they were the times I listened carefully, communicated honestly, and treated people with respect. Those relationships later turned into recommendations, partnerships, and lasting friendships.
 
 ---
 
@@ -89,11 +89,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Paying attention to small details prevents big problems.
 
 ### Evidence from my life
 
-Add your answer here...
+I've learned this lesson both at work and at home. Whether reviewing an important document, checking a system before deployment, or helping my children with their schoolwork, taking a few extra minutes to verify the small things has saved me from costly mistakes. It's a habit that has consistently produced better outcomes than rushing to finish.
 
 ---
 

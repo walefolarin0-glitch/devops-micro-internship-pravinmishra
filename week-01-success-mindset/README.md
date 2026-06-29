@@ -33,7 +33,17 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+One belief I hold that many people around me would disagree with is that attending the best schools does not automatically guarantee success. While a good education is valuable, I believe that having a strong foundation, discipline, and paying attention to details are far more important in achieving long-term success.
+
+As a parent, I want my children to understand that success is built through consistent effort and good character, not just by the name of the school they attend. I have seen people from prestigious schools struggle because they lacked discipline, while others from less popular schools excelled because they worked hard, stayed focused, and continued learning.
+
+Discipline is a value I believe every child should develop early. Simple habits such as being responsible, keeping promises, and managing time well often make a greater difference than natural talent. These habits shape how we handle challenges throughout life.
+
+I also believe that strong relationships matter. Respect, honesty, and kindness create trust and opportunities that qualifications alone cannot provide.
+
+This is especially true in the technology industry, where practical skills, curiosity, and continuous learning are often more valuable than academic prestige. Technology changes rapidly, and those who remain disciplined and pay attention to details are usually the ones who succeed.
+
+In the end, I believe that while education opens doors, it is a strong foundation, good values, and consistent discipline that keep those doors open and lead to lasting success.
 
 ---
 

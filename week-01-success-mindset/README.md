@@ -145,11 +145,21 @@ Include this line:
 
 ## Your Article
 
-Add your answer here...
+A few years ago, I made a decision to stop chasing credentials alone and start building things that solved real problems. Looking back, that decision changed the course of my career.
+
+Although my academic background is in Physics, I proved that curiosity, discipline, and continuous learning could open doors into software engineering and cloud technologies. I built a strong foundation in DevOps by working on projects that challenged me to think beyond theory. One of the milestones in my journey was contributing to the development of a banking application, where I worked on both the frontend and backend deployment process. I created the Dockerfile, built a CI/CD pipeline using GitHub Actions, and automated deployments to make the software delivery process faster and more reliable.
+
+Over the years, I built a portfolio that reflected real-world experience rather than just completed courses. My GitHub became a collection of practical projects showcasing cloud infrastructure, automation, containerization, and deployment best practices. Every project represented a lesson learned and another step toward becoming a better engineer.
+
+I also earned industry-recognized certifications, not simply to add them to my résumé, but to deepen my understanding and apply that knowledge to real business challenges. Those certifications, combined with hands-on experience, prepared me to lead cloud migration projects, improve deployment reliability, and mentor engineers beginning their own journeys.
+
+Today, I serve as a DevOps Engineer, leading engineering teams that build secure, scalable, and resilient cloud platforms. More importantly, I have become the kind of professional I always admired—someone known not only for technical expertise but also for integrity, attention to detail, and a willingness to help others grow.
+
+Looking back, my greatest achievement was never a job title or a certification. It was proving to myself that with a strong foundation, consistent effort, and a commitment to lifelong learning, I could build a career that creates lasting impact.
 
 ### Public Link
 
-Paste your link here:
+(https://www.linkedin.com/posts/wale-folarin-956b6022a_devops-cloudcomputing-aws-activity-7477818083470966784-_P6r?utm_source=share&utm_medium=member_desktop&rcm=ACoAADl6z1IBZjWVdPX--51VXY7TxU7dXOVzE3c)
 
 `__________________________`
 
@@ -300,7 +310,7 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+Monday to Thursday 9am to 1pm, Evening Session 8pm to 11pm
 
 ---
 
@@ -327,7 +337,8 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+Phone rules
+Game rules
 
 ---
 
@@ -347,7 +358,7 @@ Add your answer here...
 
 ### LinkedIn Post
 
-Paste your LinkedIn post link here:
+(https://www.linkedin.com/posts/wale-folarin-956b6022a_devops-cloudcomputing-aws-activity-7477818083470966784-_P6r?utm_source=share&utm_medium=member_desktop&rcm=ACoAADl6z1IBZjWVdPX--51VXY7TxU7dXOVzE3c)
 
 `__________________________`
 

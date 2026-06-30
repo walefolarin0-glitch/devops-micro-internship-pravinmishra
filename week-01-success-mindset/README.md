@@ -183,7 +183,7 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+No
 
 ---
 
@@ -247,16 +247,16 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* Time spent on deep work
+* Hands-on projects completed
+* Career milestones achieved
+* LinkedIn posts published
+* Meaningful family time
+* Sleep quality
+* Body weight and fitness
+* Investment growth
+* Learning budget
+* Overall life satisfaction
 
 ---
 
@@ -282,7 +282,7 @@ Examples:
 
 Answer:
 
-Add your answer here...
+No
 
 ---
 
@@ -308,11 +308,12 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Monday to Thursday 9am to 1pm, Evening Session 8pm to 11pm
+Friday- 9am to 12pm
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+9 Sessions Per Week
 
 ---
 

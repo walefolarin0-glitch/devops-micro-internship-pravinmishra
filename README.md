@@ -14,7 +14,7 @@
 | | |
 |---|---|
 | **Name** | Wale Folarin |
-| **LinkedIn** | [wale-folarin-956b6022a](linkedin.com/in/wale-folarin-956b6022a) |
+| **LinkedIn** | [linkedin.com/in/wale-folarin-956b6022a](linkedin.com/in/wale-folarin-956b6022a) |
 | **Location** | Lagos, Nigeria |
 | **Background** | Cloud, DevOps Engineer |
 | **Goal** | Break, Build, Secure and Deploy |

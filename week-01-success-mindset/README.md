@@ -346,15 +346,15 @@ Game rules
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+This week, I realized that I thrive when I'm building, learning, and improving—not just achieving milestones. I value discipline over shortcuts and consistent progress over perfection. The more I focus on creating real impact and sharing what I learn, the more fulfilled I become.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+I realized that I can be so focused on becoming the next version of myself that I don't always celebrate my current progress. This week reminded me that growth is a journey, and every small win deserves recognition..
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+Every night at 9:30 PM, I will spend time reviewing what I learned, what I built, and one thing I can improve tomorrow.
 
 ### LinkedIn Post
 
@@ -366,7 +366,7 @@ Add your answer here...
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
+- LinkedIn Post URL: (https://www.linkedin.com/posts/wale-folarin-956b6022a_devops-cloudcomputing-aws-activity-7477818083470966784-_P6r?utm_source=share&utm_medium=member_desktop&rcm=ACoAADl6z1IBZjWVdPX--51VXY7TxU7dXOVzE3c) 
 - Blog / Medium : **ADD LINK HERE**  
 
 ---

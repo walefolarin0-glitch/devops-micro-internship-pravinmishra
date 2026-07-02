@@ -159,9 +159,8 @@ Looking back, my greatest achievement was never a job title or a certification. 
 
 ### Public Link
 
-(https://www.linkedin.com/posts/wale-folarin-956b6022a_devops-cloudcomputing-aws-activity-7477818083470966784-_P6r?utm_source=share&utm_medium=member_desktop&rcm=ACoAADl6z1IBZjWVdPX--51VXY7TxU7dXOVzE3c)
+https://www.linkedin.com/posts/wale-folarin-956b6022a_devops-cloudcomputing-aws-activity-7477818083470966784-_P6r?utm_source=share&utm_medium=member_desktop&rcm=ACoAADl6z1IBZjWVdPX--51VXY7TxU7dXOVzE3c
 
-`__________________________`
 
 ---
 
@@ -288,11 +287,11 @@ Examples:
 
 ### Did You Do It?
 
-**Yes / No**
+Yes
 
 Answer:
 
-No
+Bills
 
 ---
 
@@ -358,16 +357,15 @@ Every night at 9:30 PM, I will spend time reviewing what I learned, what I built
 
 ### LinkedIn Post
 
-(https://www.linkedin.com/posts/wale-folarin-956b6022a_devops-cloudcomputing-aws-activity-7477818083470966784-_P6r?utm_source=share&utm_medium=member_desktop&rcm=ACoAADl6z1IBZjWVdPX--51VXY7TxU7dXOVzE3c)
+https://www.linkedin.com/posts/wale-folarin-956b6022a_devops-cloudcomputing-aws-activity-7477818083470966784-_P6r?utm_source=share&utm_medium=member_desktop&rcm=ACoAADl6z1IBZjWVdPX--51VXY7TxU7dXOVzE3c
 
-`__________________________`
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: (https://www.linkedin.com/posts/wale-folarin-956b6022a_devops-cloudcomputing-aws-activity-7477818083470966784-_P6r?utm_source=share&utm_medium=member_desktop&rcm=ACoAADl6z1IBZjWVdPX--51VXY7TxU7dXOVzE3c) 
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL: https://www.linkedin.com/posts/wale-folarin-956b6022a_devops-cloudcomputing-aws-activity-7477818083470966784-_P6r?utm_source=share&utm_medium=member_desktop&rcm=ACoAADl6z1IBZjWVdPX--51VXY7TxU7dXOVzE3c
+- Blog / Notion : https://chestnut-politician-c4f.notion.site/Building-My-Success-Mindset-Why-Discipline-Will-Always-Beat-Prestige-2e474d22f98080d1b819ce95f91b97b0?source=copy_link
 
 ---
 

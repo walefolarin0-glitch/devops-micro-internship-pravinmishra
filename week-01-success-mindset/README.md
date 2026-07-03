@@ -365,7 +365,7 @@ https://www.linkedin.com/posts/wale-folarin-956b6022a_devops-cloudcomputing-aws-
 ## 10. Proof of Work
 
 - LinkedIn Post URL: https://www.linkedin.com/posts/wale-folarin-956b6022a_devops-cloudcomputing-aws-activity-7477818083470966784-_P6r?utm_source=share&utm_medium=member_desktop&rcm=ACoAADl6z1IBZjWVdPX--51VXY7TxU7dXOVzE3c
-- Blog / Notion : https://chestnut-politician-c4f.notion.site/Building-My-Success-Mindset-Why-Discipline-Will-Always-Beat-Prestige-2e474d22f98080d1b819ce95f91b97b0?source=copy_link
+- Blog / Medium : https://medium.com/@folarinwale834/why-im-choosing-discipline-over-prestige-building-my-success-mindset-as-a-devops-engineer-1b06be5d21ca
 
 ---
 

@@ -133,7 +133,7 @@ Week 01 → Success Mindset
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
 | 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved |https://www.linkedin.com/posts/wale-folarin-956b6022a_chatgpt-a-network-protocol-is-a-set-of-rules-share-7441789055983366144-B6Xi/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADl6z1IBZjWVdPX--51VXY7TxU7dXOVzE3c| — |
-| 01 | Success Mindset | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/wale-folarin-956b6022a_devops-cloudcomputing-aws-activity-7477818083470966784-_P6r?utm_source=share&utm_medium=member_desktop&rcm=ACoAADl6z1IBZjWVdPX--51VXY7TxU7dXOVzE3c| https://chestnut-politician-c4f.notion.site/Building-My-Success-Mindset-Why-Discipline-Will-Always-Beat-Prestige-2e474d22f98080d1b819ce95f91b97b0?source=copy_link|
+| 01 | Success Mindset | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/wale-folarin-956b6022a_devops-cloudcomputing-aws-activity-7477818083470966784-_P6r?utm_source=share&utm_medium=member_desktop&rcm=ACoAADl6z1IBZjWVdPX--51VXY7TxU7dXOVzE3c| https://medium.com/@folarinwale834/why-im-choosing-discipline-over-prestige-building-my-success-mindset-as-a-devops-engineer-1b06be5d21ca |
 | 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
 | 03 | Linux for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Bash Scripting | ⬜ Not Started | ⏳ Pending | — | — |

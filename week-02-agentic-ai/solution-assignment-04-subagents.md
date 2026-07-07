@@ -20,7 +20,7 @@ Create the `.claude/agents/` directory and add all required agent files.
 
 #### Screenshot 1 — Agents folder structure in VS Code
 
-Add your screenshot here.
+![screenshot 1](screenshots\Screenshot1A4.png)
 
 ---
 
@@ -34,19 +34,19 @@ Analyze the configuration differences between the three agents and demonstrate u
 
 #### 1. Why does the cost optimizer use Haiku instead of Sonnet?
 
-Add your answer here...
+Becasue the cost optimizer does not need deep reasoning.
 
 ---
 
 #### 2. Why does the security auditor NOT have Write in its tools list?
 
-Add your answer here...
+Because it role is to audit and not allowed to edit any file.
 
 ---
 
 #### 3. Why does the tf-writer use `inherit` instead of a specific model?
 
-Add your answer here...
+It uses whatever season the main agent is running on, because code quality depends on the agent.
 
 ---
 
@@ -54,13 +54,13 @@ Add your answer here...
 
 #### Screenshot 2 — security-auditor.md frontmatter
 
-Add your screenshot here.
+![screenshot 2](screenshots\Screenshot2A4.png)
 
 ---
 
 #### Screenshot 3 — cost-optimizer.md frontmatter
 
-Add your screenshot here.
+![screenshot 1](screenshots\Screenshot3A4.png)
 
 ---
 
@@ -74,13 +74,13 @@ Trigger the security auditor agent and analyze the generated security report for
 
 #### Screenshot 4 — Security auditor delegation triggered
 
-Add your screenshot here.
+![screenshot 2](screenshots\Screenshot4A4.png)
 
 ---
 
 #### Screenshot 5 — Security audit report output
 
-Add your screenshot here.
+![screenshot 1](screenshots\Screenshot5A4.png)
 
 ---
 
@@ -94,7 +94,7 @@ Trigger the cost optimizer agent and review the generated cost optimization repo
 
 #### Screenshot 6 — Cost optimization report output
 
-Add your screenshot here.
+![screenshot 1](screenshots\Screenshot6A4.png)
 
 ---
 
@@ -109,7 +109,7 @@ Add your screenshot here.
 
 ## Google Doc Link
 
-Paste your Google Doc URL here:
+https://docs.google.com/document/d/1tAYCddPXubLM5ECtn6A_-o3G2C2riAm1D31RYzcEdro/edit?usp=sharing
 
 `__________________________`
 
@@ -117,7 +117,7 @@ Paste your Google Doc URL here:
 
 ## GitHub Repository URL
 
-Paste your forked repository URL here:
+https://github.com/walefolarin0-glitch/Ultimate-Agentic-DevOps-with-Claude-Code.git
 
 `__________________________`
 

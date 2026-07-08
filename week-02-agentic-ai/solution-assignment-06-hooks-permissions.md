@@ -20,7 +20,7 @@ Create a team-level `settings.json` file with allow and deny rules for safe comm
 
 #### Screenshot 1 — settings.json permissions configuration
 
-Add your screenshot here.
+![screenshot 1](screenshots\hk1.png)
 
 ---
 
@@ -34,7 +34,7 @@ Add a hook that intercepts user prompts before Claude starts execution and block
 
 #### Screenshot 2 — settings.json showing UserPromptSubmit hook
 
-Add your screenshot here.
+![screenshot 1](screenshots\hk2.png)
 
 ---
 
@@ -48,7 +48,7 @@ Extend `settings.json` with a PreToolUse hook that blocks dangerous Bash command
 
 #### Screenshot 3 — full settings.json with permissions and hooks
 
-Add your screenshot here.
+![screenshot 1](screenshots\hk3.png)
 
 ---
 
@@ -62,7 +62,7 @@ Verify that destructive prompts are blocked before Claude begins execution.
 
 #### Screenshot 4 — blocked prompt due to UserPromptSubmit hook
 
-Add your screenshot here.
+![screenshot 1](screenshots\hk4.png)
 
 ---
 
@@ -76,7 +76,7 @@ Verify that dangerous commands are intercepted before execution by the PreToolUs
 
 #### Screenshot 5 — PreToolUse hook blocking terraform destroy
 
-Add your screenshot here.
+![screenshot 1](screenshots\hk5.png)
 
 ---
 
@@ -90,7 +90,7 @@ Add your screenshot here.
 
 ## GitHub Repository URL
 
-Paste your forked repository URL here:
+https://github.com/walefolarin0-glitch/Ultimate-Agentic-DevOps-with-Claude-Code.git
 
 `__________________________`
 

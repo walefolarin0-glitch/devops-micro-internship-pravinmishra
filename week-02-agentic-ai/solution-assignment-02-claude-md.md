@@ -34,11 +34,11 @@ Generate an initial `CLAUDE.md` file using the `/init` command and review the au
 
 #### Screenshot 2 — Auto-generated CLAUDE.md
 
-![screenshot 1](screenshots\Screenshot2aT2.png)
+![screenshot 1](screenshots/Screenshot2aT2.png)
 
-![screenshot 1](screenshots\Screenshot2cT2.png)
+![screenshot 1](screenshots/Screenshot2cT2.png)
 
-![screenshot 1](screenshots\Screenshot2bT2.png)
+![screenshot 1](screenshots/Screenshot2bT2.png)
 
 ---
 

@@ -20,9 +20,9 @@ Generate a GitHub Personal Access Token (PAT) that will be used for MCP authenti
 
 #### Screenshot 1 — GitHub token creation (scopes only)
 
-![screenshot 1](screenshots\ss1a.png)
+![screenshot 1](screenshots/ss1a.png)
 
-![screenshot 1](screenshots\ss1b.png)
+![screenshot 1](screenshots/ss1b.png)
 
 ---
 
@@ -36,7 +36,7 @@ Create and configure the `.mcp.json` file to define the GitHub MCP server.
 
 #### Screenshot 2 — .mcp.json configuration in VS Code
 
-![screenshot 1](screenshots\ss2.png)
+![screenshot 1](screenshots/ss2.png)
 
 ---
 
@@ -50,7 +50,7 @@ Store your GitHub token securely in `.claude/settings.local.json` and ensure it 
 
 #### Screenshot 3 — settings.local.json (token hidden/blurred)
 
-![screenshot 1](screenshots\ss3.png)
+![screenshot 1](screenshots/ss3.png)
 
 ---
 
@@ -64,7 +64,7 @@ Confirm that the GitHub MCP server is successfully connected inside Claude Code.
 
 #### Screenshot 4 — /mcp output showing GitHub connected
 
-![screenshot 1](screenshots\ss4.png)
+![screenshot 1](screenshots/ss4.png)
 
 ---
 
@@ -78,7 +78,7 @@ Verify MCP functionality by retrieving real-time data from your GitHub account u
 
 #### Screenshot 5 — Claude response showing real GitHub repositories
 
-![screenshot 1](screenshots\ss5.png)
+![screenshot 1](screenshots/ss5.png)
 
 ---
 

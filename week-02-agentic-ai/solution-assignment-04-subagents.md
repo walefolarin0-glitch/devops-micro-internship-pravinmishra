@@ -20,7 +20,7 @@ Create the `.claude/agents/` directory and add all required agent files.
 
 #### Screenshot 1 — Agents folder structure in VS Code
 
-![screenshot 1](screenshots\Screenshot1A4.png)
+![screenshot 1](screenshots/Screenshot1A4.png)
 
 ---
 
@@ -54,13 +54,13 @@ It uses whatever season the main agent is running on, because code quality depen
 
 #### Screenshot 2 — security-auditor.md frontmatter
 
-![screenshot 2](screenshots\Screenshot2A4.png)
+![screenshot 2](screenshots/Screenshot2A4.png)
 
 ---
 
 #### Screenshot 3 — cost-optimizer.md frontmatter
 
-![screenshot 1](screenshots\Screenshot3A4.png)
+![screenshot 1](screenshots/Screenshot3A4.png)
 
 ---
 
@@ -74,13 +74,13 @@ Trigger the security auditor agent and analyze the generated security report for
 
 #### Screenshot 4 — Security auditor delegation triggered
 
-![screenshot 2](screenshots\Screenshot4A4.png)
+![screenshot 2](screenshots/Screenshot4A4.png)
 
 ---
 
 #### Screenshot 5 — Security audit report output
 
-![screenshot 1](screenshots\Screenshot5A4.png)
+![screenshot 1](screenshots/Screenshot5A4.png)
 
 ---
 
@@ -94,7 +94,7 @@ Trigger the cost optimizer agent and review the generated cost optimization repo
 
 #### Screenshot 6 — Cost optimization report output
 
-![screenshot 1](screenshots\Screenshot6A4.png)
+![screenshot 1](screenshots/Screenshot6A4.png)
 
 ---
 

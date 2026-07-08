@@ -20,7 +20,7 @@ Create the required `.claude/skills/` directory structure for all skills.
 
 #### Screenshot 1 — Skills folder structure in VS Code
 
-![screenshot 1](screenshots\Screenshot1A3.png)
+![screenshot 1](screenshots/Screenshot1A3.png)
 
 ---
 
@@ -34,13 +34,13 @@ Place all required skill files into their correct directories and verify their c
 
 #### Screenshot 2 — scaffold-terraform skill folder contents
 
-![screenshot 2](screenshots\Screenshot2A3.png)
+![screenshot 2](screenshots/Screenshot2A3.png)
 
 ---
 
 #### Screenshot 3 — tf-plan/SKILL.md showing allowed-tools restrictions
 
-![screenshot 3](screenshots\Screenshot3A3.png)
+![screenshot 3](screenshots/Screenshot3A3.png)
 
 ---
 
@@ -54,13 +54,13 @@ Execute the `/scaffold-terraform` skill to generate a full Terraform infrastruct
 
 #### Screenshot 4 — Claude scaffold execution result
 
-![screenshot 4](screenshots\Screenshot4A3.png)
+![screenshot 4](screenshots/Screenshot4A3.png)
 
 ---
 
 #### Screenshot 5 — Generated terraform/ folder with all files
 
-![screenshot 5](screenshots\Screenshot5A3.png)
+![screenshot 5](screenshots/Screenshot5A3.png)
 
 ---
 
@@ -74,7 +74,7 @@ Initialize Terraform and execute the `/tf-plan` skill to observe plan execution 
 
 #### Screenshot 6 — /tf-plan execution and Claude analysis output
 
-![screenshot 6](screenshots\Screenshot6A3.png)
+![screenshot 6](screenshots/Screenshot6A3.png)
 
 ---
 
@@ -94,10 +94,10 @@ https://github.com/walefolarin0-glitch/Ultimate-Agentic-DevOps-with-Claude-Code.
 https://www.linkedin.com/posts/wale-folarin-956b6022a_dmibypravinmishra-agenticai-claudecode-ugcPost-7480145356375113729-uzyQ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADl6z1IBZjWVdPX--51VXY7TxU7dXOVzE3c
 
 
-![screenshot 6](screenshots\Screenshot002.png)
+![screenshot 6](screenshots/Screenshot002.png)
 
 
-![screenshot 6](screenshots\Screenshot003.png)
+![screenshot 6](screenshots/Screenshot003.png)
 
 
 

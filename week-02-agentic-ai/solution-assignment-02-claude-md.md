@@ -52,9 +52,9 @@ Update the generated `CLAUDE.md` file by adding project-specific instructions ac
 
 #### Screenshot 3 — Customized CLAUDE.md (all 5 sections visible)
 
-![screenshot 3](screenshots\Screenshot3aT2.png)
+![screenshot 3](screenshots/Screenshot3aT2.png)
 
-![screenshot 3](screenshots\Screenshot3bT2.png)
+![screenshot 3](screenshots/Screenshot3bT2.png)
 
 ---
 
@@ -68,13 +68,13 @@ Verify that Claude’s behavior changes after adding `CLAUDE.md` by running a ne
 
 #### Screenshot 4 — Claude response with project-specific deployment details
 
-![screenshot 4](screenshots\Screenshot4T2.png)
+![screenshot 4](screenshots/Screenshot4T2.png)
 
 ---
 
 #### Screenshot 5 — Claude response rejecting React/component change based on rules
 
-![screenshot 5](screenshots\Screenshot5T2.png)
+![screenshot 5](screenshots/Screenshot5T2.png)
 
 ---
 

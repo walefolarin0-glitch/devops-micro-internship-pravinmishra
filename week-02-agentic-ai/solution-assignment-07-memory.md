@@ -89,7 +89,7 @@ Verify that Claude correctly recalls stored memory after a full session reset.
 
 ## GitHub Repository URL
 
-Paste your forked repository URL here:
+https://github.com/walefolarin0-glitch/devops-micro-internship-pravinmishra.git
 
 `__________________________`
 

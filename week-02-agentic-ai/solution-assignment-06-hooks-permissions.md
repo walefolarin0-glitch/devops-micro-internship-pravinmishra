@@ -82,6 +82,44 @@ Configure Claude Code permissions and connect the hook scripts created in the pr
 
 ---
 
+# Task 6 — Test the UserPromptSubmit Hook
+
+## Goal
+
+Prove the prompt-level hook works by typing a destructive prompt and verifying it is blocked before Claude processes the request.
+
+### Evidence
+
+#### Screenshot 6 — UserPromptSubmit hook blocking the destructive prompt
+
+---
+
+# Task 7 — Test the PreToolUse Hook
+
+## Goal
+
+Prove the tool-level hook works by asking Claude to execute a dangerous Bash command.
+
+### Evidence
+
+#### Screenshot 7 — PreToolUse hook blocking terraform destroy
+
+---
+
+# Task 8 — Test the PostToolUse Logging Hook
+
+## Goal
+
+Prove the logging hook runs after a successful command execution and records Terraform operations.
+
+### Evidence
+
+#### Screenshot 8 — Claude running terraform validate successfully
+
+#### Screenshot 9 — `.claude/deploy.log` showing the logged command
+
+---
+
 # Submission Instructions
 
 - Ensure `.claude/settings.json` is committed to your GitHub repository

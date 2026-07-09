@@ -92,6 +92,8 @@ Prove the prompt-level hook works by typing a destructive prompt and verifying i
 
 #### Screenshot 6 — UserPromptSubmit hook blocking the destructive prompt
 
+![screenshot 1](screenshots/hook6.png)
+
 ---
 
 # Task 7 — Test the PreToolUse Hook
@@ -103,6 +105,8 @@ Prove the tool-level hook works by asking Claude to execute a dangerous Bash com
 ### Evidence
 
 #### Screenshot 7 — PreToolUse hook blocking terraform destroy
+
+![screenshot 1](screenshots/hook7.png)
 
 ---
 
@@ -116,7 +120,11 @@ Prove the logging hook runs after a successful command execution and records Ter
 
 #### Screenshot 8 — Claude running terraform validate successfully
 
+![screenshot 1](screenshots/hook8.png)
+
 #### Screenshot 9 — `.claude/deploy.log` showing the logged command
+
+![screenshot 1](screenshots/hook9.png)
 
 ---
 
@@ -132,7 +140,7 @@ Prove the logging hook runs after a successful command execution and records Ter
 
 Paste your forked repository URL here:
 
-`__________________________`
+https://github.com/walefolarin0-glitch/Ultimate-Agentic-DevOps-with-Claude-Code.git
 
 ---
 

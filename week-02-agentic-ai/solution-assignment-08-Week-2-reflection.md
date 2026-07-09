@@ -46,7 +46,7 @@ You can publish your blog on:
 
 #### Screenshot 1 — Blog published and visible
 
-Add your screenshot here.
+![screenshot 1](screenshots/blog.png)
 
 ---
 
@@ -54,7 +54,7 @@ Add your screenshot here.
 
 Blog Link:
 
-`__________________________________________`
+https://medium.com/@folarinwale834/reflection-week-2-b97b64eb5f8d
 
 ---
 
@@ -92,7 +92,7 @@ P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by 
 
 #### Screenshot 2 — LinkedIn post published
 
-Add your screenshot here.
+![screenshot 1](screenshots/Linkpost.png)
 
 ---
 
@@ -100,15 +100,19 @@ Add your screenshot here.
 
 LinkedIn Post Content (copy-paste here):
 
-```
-Paste your LinkedIn post content here
-```
+Model Context Protocol was one of the most valuable things I learned this week. Before, I had no clue of how an AI can function on our devops. The AI responds with a dataset they’re trained on and nothing else… until I learned about MCP. 
+
+MCP enables AI tools like Claude to connect safely to outside resources like GitHub so they can process current data of a project instead of out of date info. 
+
+For my hands on experience, I configured my .mcp.json file. Even if this was an “easy” one, it gave me great insight to how an AI communicates to other services in a safe and orderly manner. Each week I learn more that being a DevOps Engineer isn’t just about learning and implementing new tools, but to learn how they interact with each other to implement stronger pipelines. 
+
+Eager to learn more about Agentic AI!
 
 ---
 
 ### LinkedIn Post Link:
 
-`__________________________________________`
+https://www.linkedin.com/posts/wale-folarin-956b6022a_dmibypravinmishra-devops-agenticai-share-7480855741700935680-GgYW/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADl6z1IBZjWVdPX--51VXY7TxU7dXOVzE3c
 
 ---
 

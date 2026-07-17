@@ -20,25 +20,25 @@ Verify that the deployed React application is reachable from the browser and con
 
 #### Screenshot 1 — Browser showing the React app with your Full Name visible on the UI
 
-Add your screenshot here.
+![screenshot](screenshots/ss31.png)
 
 ---
 
 #### Screenshot 2 — Output of `ip a`
 
-Add your screenshot here.
+![screenshot](screenshots/ss32.png)
 
 ---
 
 #### Screenshot 3 — Output of `sudo ss -tulpen`
 
-Add your screenshot here.
+![screenshot](screenshots/ss33.png)
 
 ---
 
 #### Screenshot 4 — Output of `sudo ufw status`
 
-Add your screenshot here.
+![screenshot](screenshots/ss34.png)
 
 ---
 
@@ -74,19 +74,19 @@ Verify that Nginx is properly installed, running, enabled at boot, and safely co
 
 #### Screenshot 1 — Output of `systemctl status nginx --no-pager`
 
-Add your screenshot here.
+![screenshot](screenshots/ss41.png)
 
 ---
 
 #### Screenshot 2 — Output of `sudo nginx -t`
 
-Add your screenshot here.
+![screenshot](screenshots/ss42.png)
 
 ---
 
 #### Screenshot 3 — Output of `sudo ss -lptn '( sport = :80 )'`
 
-Add your screenshot here.
+![screenshot](screenshots/ss43.png)
 
 ---
 
@@ -96,13 +96,13 @@ Answer the following in your own words:
 
 **1. What happens if Nginx fails to restart in production?**
 
-Write your answer here.
+I will check Nginx status
 
 ---
 
 **2. What's your basic rollback plan?**
 
-Write your answer here.
+If Nginx is not enabled, I will run sudo systemctl enable nginx 
 
 ---
 
@@ -116,19 +116,21 @@ Verify real traffic flow and analyze logs to understand system behavior and erro
 
 #### Screenshot 1 — Output of `sudo tail -n 30 /var/log/nginx/access.log`
 
-Add your screenshot here.
+![screenshot](screenshots/ss44.png)
+
+![screenshot](screenshots/ss44a.png)
 
 ---
 
 #### Screenshot 2 — Output of `sudo tail -n 30 /var/log/nginx/error.log`
 
-Add your screenshot here.
+![screenshot](screenshots/ss45.png)
 
 ---
 
 #### Screenshot 3 — Output of `sudo journalctl -u nginx --no-pager -n 50`
 
-Add your screenshot here.
+![screenshot](screenshots/ss46.png)
 
 ---
 
@@ -141,19 +143,20 @@ Answer the following in your own words:
 - If yes, mention 1–2 example error lines from the logs and explain what each one means in simple terms.
 - If no, explain what it means if the error log is empty or shows no recent errors during your check.
 
-Write your answer here.
+NO
 
 ---
 
 **2. If there were no errors, what does that indicate about the system?**
 
-Write your answer here.
+No error, means no error was logged during the run time of the application at the moment the check was carried out.
+
 
 ---
 
 **3. Based on the access logs, were your curl requests visible in the log entries? What does that prove about traffic flow?**
 
-Write your answer here.
+That the inbound traffic is allowed
 
 ---
 
@@ -167,25 +170,25 @@ Assess server capacity and detect potential performance or failure risks.
 
 #### Screenshot 1 — Output of `uptime`
 
-Add your screenshot here.
+![screenshot](screenshots/ss47.png)
 
 ---
 
 #### Screenshot 2 — Output of `free -h`
 
-Add your screenshot here.
+![screenshot](screenshots/ss48.png)
 
 ---
 
 #### Screenshot 3 — Output of `df -h`
 
-Add your screenshot here.
+![screenshot](screenshots/ss49.png)
 
 ---
 
 #### Screenshot 4 — Output of `sudo du -sh /var/* | sort -h`
 
-Add your screenshot here.
+![screenshot](screenshots/new.png)
 
 ---
 
@@ -214,19 +217,19 @@ Ensure the correct React build is deployed and Nginx is serving it properly.
 
 #### Screenshot 1 — Output of `ls -lah /var/www/html | head -n 20`
 
-Add your screenshot here.
+![screenshot](screenshots/ss50.png)
 
 ---
 
 #### Screenshot 2 — Output of `grep -R "Deployed by" -n /var/www/html 2>/dev/null | head`
 
-Add your screenshot here.
+![screenshot](screenshots/ss51.png)
 
 ---
 
 #### Screenshot 3 — Output of `grep -n "try_files" /etc/nginx/sites-available/default`
 
-Add your screenshot here.
+![screenshot](screenshots/ss52.png)
 
 ---
 
@@ -235,8 +238,7 @@ Add your screenshot here.
 Answer the following in your own words:
 
 **1. How do you confirm that the correct version of the application is deployed?**
-
-Write your answer here.
+I can see my name edited in the App.js file. "Deployed by: ", "FOLARIN WALE", and "Date: ", "16/07/2026" — confirming the exact build and who deployed it.
 
 ---
 
@@ -250,19 +252,19 @@ Simulate a real-world Nginx misconfiguration and recover the service safely.
 
 #### Screenshot 1 — Output of `sudo nginx -t` showing the syntax error (broken config)
 
-Add your screenshot here.
+![screenshot](screenshots/ss53.png)
 
 ---
 
 #### Screenshot 2 — Output of `sudo nginx -t` showing syntax ok (fixed config)
 
-Add your screenshot here.
+![screenshot](screenshots/ss54.png)
 
 ---
 
 #### Screenshot 3 — Output of `curl -I http://<public-ip>` confirming recovery (200 OK)
 
-Add your screenshot here.
+![screenshot](screenshots/ss55.png)
 
 ---
 
@@ -298,13 +300,13 @@ Simulate missing deployment content and recover the application safely.
 
 #### Screenshot 1 — Output of `curl -I http://<public-ip>` showing failure (non-200 response)
 
-Add your screenshot here.
+![screenshot](screenshots/ss56.png)
 
 ---
 
 #### Screenshot 2 — Output of `curl -I http://<public-ip>` confirming recovery (200 OK)
 
-Add your screenshot here.
+![screenshot](screenshots/ss57.png)
 
 ---
 
@@ -314,19 +316,19 @@ Answer the following in your own words:
 
 **1. What caused the application to break in this scenario?**
 
-Write your answer here
+Created an empty directory with no content, causing Nginx to return a 500 Internal Server Error since it had no files to serve.
 
 ---
 
 **2. How did you fix the issue and restore the application?**
 
-Write your answer here.
+React build files were restored back into the newly created /var/www/html directory, restoring the content Nginx needed to serve
 
 ---
 
 **3. What steps would you take to prevent this kind of issue in real production systems?**
 
-Write your answer here.
+Never move or delete the web root directly in production environment
 
 ---
 

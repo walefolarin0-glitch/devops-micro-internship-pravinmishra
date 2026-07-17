@@ -91,7 +91,11 @@ Run three tests that prove Claude remembers what you told it — without you say
 
 Paste your Linkedin post link here:
 
+<<<<<<< HEAD
 https://www.linkedin.com/posts/wale-folarin-956b6022a_dmibypravinmishra-agenticai-claudecode-share-7481134695813070848-YBOk/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADl6z1IBZjWVdPX--51VXY7TxU7dXOVzE3c
+=======
+`Add your URL here`
+>>>>>>> upstream/main
 
 ---
 
@@ -99,7 +103,11 @@ https://www.linkedin.com/posts/wale-folarin-956b6022a_dmibypravinmishra-agentica
 
 Paste your github repository URL here:
 
+<<<<<<< HEAD
 https://github.com/walefolarin0-glitch/devops-micro-internship-pravinmishra.git
+=======
+`Add your URL here`
+>>>>>>> upstream/main
 
 ---
 

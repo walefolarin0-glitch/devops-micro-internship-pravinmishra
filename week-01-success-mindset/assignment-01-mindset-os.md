@@ -161,7 +161,6 @@ Looking back, my greatest achievement was never a job title or a certification. 
 
 https://www.linkedin.com/posts/wale-folarin-956b6022a_devops-cloudcomputing-aws-activity-7477818083470966784-_P6r?utm_source=share&utm_medium=member_desktop&rcm=ACoAADl6z1IBZjWVdPX--51VXY7TxU7dXOVzE3c
 
-
 ---
 
 # Assignment 4. Have you ever cut corners (unethical / dishonest / shortcut behavior — not necessarily illegal)? If yes, how did it make you feel?
@@ -358,7 +357,6 @@ Every night at 9:30 PM, I will spend time reviewing what I learned, what I built
 ### LinkedIn Post
 
 https://www.linkedin.com/posts/wale-folarin-956b6022a_devops-cloudcomputing-aws-activity-7477818083470966784-_P6r?utm_source=share&utm_medium=member_desktop&rcm=ACoAADl6z1IBZjWVdPX--51VXY7TxU7dXOVzE3c
-
 
 ---
 

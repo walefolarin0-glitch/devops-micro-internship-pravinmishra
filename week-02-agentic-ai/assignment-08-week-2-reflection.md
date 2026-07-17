@@ -54,7 +54,11 @@ You can publish your blog on:
 
 Blog Link:
 
+<<<<<<< HEAD
 https://medium.com/@folarinwale834/reflection-week-2-b97b64eb5f8d
+=======
+`Add your URL here`
+>>>>>>> upstream/main
 
 ---
 
@@ -112,7 +116,11 @@ Eager to learn more about Agentic AI!
 
 ### LinkedIn Post Link:
 
+<<<<<<< HEAD
 https://www.linkedin.com/posts/wale-folarin-956b6022a_dmibypravinmishra-devops-agenticai-share-7480855741700935680-GgYW/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADl6z1IBZjWVdPX--51VXY7TxU7dXOVzE3c
+=======
+`Add your URL here`
+>>>>>>> upstream/main
 
 ---
 

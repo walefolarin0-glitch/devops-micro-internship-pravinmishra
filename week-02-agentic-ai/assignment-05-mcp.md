@@ -96,7 +96,7 @@ Verify MCP functionality by retrieving real-time data from your GitHub account u
 
 https://github.com/walefolarin0-glitch/Ultimate-Agentic-DevOps-with-Claude-Code.git
 
-`__________________________`
+`Add your URL here`
 
 ---
 

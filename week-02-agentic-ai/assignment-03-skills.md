@@ -90,19 +90,13 @@ Initialize Terraform and execute the `/tf-plan` skill to observe plan execution 
 
 https://github.com/walefolarin0-glitch/Ultimate-Agentic-DevOps-with-Claude-Code.git
 
+`Add your URL here`
 
 ## LinkedIn post URL
 
 Paste your forked repository URL here:
 
-https://www.linkedin.com/posts/wale-folarin-956b6022a_dmibypravinmishra-agenticai-claudecode-ugcPost-7480145356375113729-uzyQ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADl6z1IBZjWVdPX--51VXY7TxU7dXOVzE3c
-
-
-![screenshot 6](screenshots/Screenshot002.png)
-
-
-![screenshot 6](screenshots/Screenshot003.png)
-
+`Add your URL here`
 ---
 
 # Completion Checklist

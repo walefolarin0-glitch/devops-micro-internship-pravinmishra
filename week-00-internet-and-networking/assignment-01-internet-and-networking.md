@@ -25,7 +25,7 @@ Take a screenshot of your interaction showing:
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![Task 1 Screenshot](screenshots/task-1-chatgpt.png)
+![Task 1 Screenshot](screenshots/01.png)
 
 
 Replace `task-1-chatgpt.png` with your actual screenshot file name.
@@ -34,7 +34,7 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+I learnt how network protocol works 
 
 ---
 
@@ -59,7 +59,11 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+Packet Switching: When a user visits EpicReads, their data doesn’t travel as one big message. Instead, it’s broken into small “packets” that move across various routes on the internet. This method, called packet switching, ensures reliable, fast delivery even if some routes are busy or temporarily down.
+IP Address: The EpicReads website has a unique IP address — like its digital street address — assigned to its server in Finland. When users around the world type the bookstore’s domain name, their devices use this IP to locate and connect to the correct server.
+TCP/IP: The Transmission Control Protocol/Internet Protocol manages how data packets travel between users’ computers and the EpicReads server. It ensures packets arrive complete, in the right order, and without errors — making the site load smoothly.
+HTTP/HTTPS: Finally, users access EpicReads through HTTP or HTTPS, the web protocols that deliver web pages. HTTPS adds encryption, protecting customer data like login details or payment information while they browse and buy books.
+
 
 ---
 
@@ -91,7 +95,7 @@ EpicReads bookstore has two application versions:
 
 Save your diagram image in the `screenshots` folder and update the file name below.
 
-![Application Architecture Diagram](screenshots/task-3-diagram.png)
+![Application Architecture Diagram](screenshots/02.png)
 
 
 Replace `task-3-diagram.png` with your actual diagram file name.
@@ -102,18 +106,18 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* Vitual Network
+* Subnet
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* Cida Block
+* Vitual Network
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+* Vitual Network
+* Security Network
 
 ---
 
@@ -142,7 +146,10 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+DNS ( Domain Name System): This is a unique identifier name that someone chooses for a brand. It is easily remembered when linked to the host IP to access the internet. 
+
+A record (Address record). Maps the domain name already purchased  directly to the host IP 52.172.142.222:3000., allowing users to access EpicReads by typing epicreads.com instead of the numeric IP.
+
 
 ---
 
@@ -178,7 +185,7 @@ ls
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![VS Code Setup Screenshot](screenshots/task-5-vscode.png)
+![VS Code Setup Screenshot](screenshots/03.png)
 
 
 Replace `task-5-vscode.png` with your actual screenshot file name.
@@ -217,9 +224,7 @@ Add the following credit note at the end of your post:
 
 Paste your LinkedIn post URL here:
 
-```text
-Add your URL here...
-```
+https://www.linkedin.com/posts/wale-folarin-956b6022a_chatgpt-a-network-protocol-is-a-set-of-rules-activity-7441789056885084161-Hkgz?utm_source=share&utm_medium=member_desktop&rcm=ACoAADl6z1IBZjWVdPX--51VXY7TxU7dXOVzE3c
 
 ---
 
@@ -227,7 +232,35 @@ Add your URL here...
 
 Paste the full text of your LinkedIn post here:
 
-Add your post content here...
+ChatGPT
+A network protocol is a set of rules that lets computers communicate over networks, much like a shared language. It defines how data is sent, received, and managed between devices.
+
+Examples include HTTP/HTTPS for web access, FTP for file transfers, TCP/IP for internet communication, and DNS for translating domain names into IP addresses.
+
+In daily life, these protocols enable secure browsing, error-free messaging, smooth streaming, and reliable app performance.
+For DevOps, they’re crucial for configuring secure communication, managing DNS, and maintaining network reliability across systems.
+
+Internet & Networking
+When users visit EpicReads, their data is split into small packets through packet switching for fast, reliable transfer.
+The website’s IP address acts like a digital address, guiding browsers to the right server in Finland.
+TCP/IP ensures these packets reach correctly and in order, keeping communication smooth.
+Finally, HTTP/HTTPS delivers the website securely, with HTTPS encrypting customer information during browsing and purchases.
+
+Application Architecture
+VNET 1 – Two-Tier App (10.30.0.0/16): Contains a Frontend subnet (10.30.5.0/24) and a Database subnet (10.30.10.0/24).
+VNET 2 – Three-Tier App (10.40.0.0/16): Includes Frontend (10.40.5.0/24), Backend (10.40.10.0/24), and Database (10.40.20.0/24) subnets.
+
+
+DNS (Domain Name System)
+DNS translates a brand’s easy-to-remember domain name into its server’s IP address.
+An A record connects epicreads.com to 52.172.142.222:3000, letting users access the site without using the numeric IP.
+
+VS Code Setup
+In Visual Studio Code, you can open a terminal to run basic system commands.
+Use pwd on Linux/Mac or dir on Windows to see your current directory.
+Use ls on Linux/Mac to list the files within that directory. 
+
+This post is part of the FREE DevOps Micro Internship Cohort run by Pravin Mishra You can start your DevOps journey for free from his YouTube Playlist.
 
 ---
 
@@ -235,19 +268,19 @@ Add your post content here...
 
 ### What did you find easy?
 
-Add your answer here...
+Understanding VS Code
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+Understanding DNS
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+I will improve how I ask chatgpt for task
 
 ---
 

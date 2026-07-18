@@ -157,6 +157,8 @@ Today, I serve as a DevOps Engineer, leading engineering teams that build secure
 
 Looking back, my greatest achievement was never a job title or a certification. It was proving to myself that with a strong foundation, consistent effort, and a commitment to lifelong learning, I could build a career that creates lasting impact.
 
+P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by Pravin Mishra. You can start your DevOps journey by joining this Discord community ( https://discord.pravinmishra.com/ ).
+
 ### Public Link
 
 https://www.linkedin.com/posts/wale-folarin-956b6022a_devops-cloudcomputing-aws-activity-7477818083470966784-_P6r?utm_source=share&utm_medium=member_desktop&rcm=ACoAADl6z1IBZjWVdPX--51VXY7TxU7dXOVzE3c
@@ -292,7 +294,6 @@ Answer:
 
 Bills
 
----
 
 ## Step 2: Your 5-Month Routine + Focus Blocks
 
@@ -363,6 +364,7 @@ https://www.linkedin.com/posts/wale-folarin-956b6022a_devops-cloudcomputing-aws-
 ## 10. Proof of Work
 
 - LinkedIn Post URL: https://www.linkedin.com/posts/wale-folarin-956b6022a_devops-cloudcomputing-aws-activity-7477818083470966784-_P6r?utm_source=share&utm_medium=member_desktop&rcm=ACoAADl6z1IBZjWVdPX--51VXY7TxU7dXOVzE3c
+
 - Blog / Medium : https://medium.com/@folarinwale834/why-im-choosing-discipline-over-prestige-building-my-success-mindset-as-a-devops-engineer-1b06be5d21ca
 
 ---

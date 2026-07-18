@@ -199,6 +199,7 @@ Answer the following in your own words:
 **1. Which resource looks most critical right now? (CPU/load, memory, or disk) Explain why.**
 
 Disk space, Monitoring it ensures our website has sufficient room to store and serve all its content without interruption. Keeping track of available storage helps us maintain performance, prevent downtime, and plan for future growth.
+
 ---
 
 **2. What happens if disk becomes 100% full in a production server?**
@@ -238,6 +239,7 @@ Ensure the correct React build is deployed and Nginx is serving it properly.
 Answer the following in your own words:
 
 **1. How do you confirm that the correct version of the application is deployed?**
+
 I can see my name edited in the App.js file. "Deployed by: ", "FOLARIN WALE", and "Date: ", "16/07/2026" — confirming the exact build and who deployed it.
 
 ---
@@ -344,31 +346,31 @@ Answer the following in your own words:
 
 **1. Why is SSH key-based authentication more secure than sharing passwords?**
 
-Write your answer here.
+Because the key is stored local and can only be access locally
 
 ---
 
 **2. Why should only required ports be open on a production server?**
 
-Write your answer here.
+To ensuring the server is only exposes to what is absolutely necessary function.
 
 ---
 
 **3. Why is it important for Nginx to be enabled on boot?**
 
-Write your answer here.
+This ensures your website stays online and available to users at all times without you having to SSH in and manually start it every time.
 
 ---
 
 **4. What are the risks of sharing secrets, keys, or credentials publicly?**
 
-Write your answer here.
+Codes and application can be hacked 
 
 ---
 
 **5. Why should cloud resources be stopped or terminated when they are no longer needed?**
 
-Write your answer here.
+To save cost
 
 ---
 
@@ -380,13 +382,13 @@ Write your answer here.
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+https://www.linkedin.com/posts/wale-folarin-956b6022a_devops-linux-ubuntu-ugcPost-7484280714356596736-EPU9/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADl6z1IBZjWVdPX--51VXY7TxU7dXOVzE3c
 
 ---
 
 #### Screenshot — Published LinkedIn post
 
-Add your screenshot here.
+![screenshot](screenshots/11.png)
 
 ---
 

@@ -36,19 +36,19 @@ Answer the following in your own words:
 
 **1. What proves that Nginx is running?**
 
-Add your answer here.
+The command systemctl is-active nginx returns active, confirming that the Nginx service is running.
 
 ---
 
 **2. What proves that the server is listening for HTTP traffic?**
 
-Add your answer here.
+The command ss -ltn | grep ':80' shows LISTEN on port 80, proving the server is accepting HTTP connections.
 
 ---
 
 **3. Why must you capture a healthy baseline before simulating an incident?**
 
-Add your answer here.
+A healthy baseline provides a known working state, making it easier to identify what changed and verify that the system has recovered after the incident.
 
 ---
 
@@ -72,19 +72,19 @@ Answer the following in your own words:
 
 **1. Why should Claude receive project-specific operational rules?**
 
-Add your answer here.
+Project-specific operational rules ensure Claude follows the defined workflow and safety guidelines for the project.
 
 ---
 
 **2. Why is the human required to execute the recovery command?**
 
-Add your answer here.
+The human executes the recovery command because the safety rules state Claude should only recommend recovery actions, not perform them.
 
 ---
 
 **3. Which rule prevents Claude from making an unsupported diagnosis?**
 
-Add your answer here.
+The rule "Do not claim a root cause unless the report contains supporting evidence." prevents Claude from making an unsupported diagnosis.
 
 ---
 
@@ -108,19 +108,19 @@ Answer the following in your own words:
 
 **1. Which part of this task represents the Gather phase?**
 
-Add your answer here.
+The five system checks (Nginx status, port 80, localhost response, disk usage, and available memory) represent the Gather phase because they collect evidence about the server's health.
 
 ---
 
 **2. Did Claude follow the instruction not to create files? How did you verify this?**
 
-Add your answer here.
+Yes. Claude only generated a read-only incident-triage plan in the chat and did not create or edit any files, as instructed.
 
 ---
 
 **3. Why is planning before coding useful in DevOps automation?**
 
-Add your answer here.
+Planning ensures the correct checks and safe steps are identified before making changes, reducing the risk of errors in production.
 
 ---
 
@@ -168,31 +168,31 @@ Answer the following in your own words:
 
 **1. What is stored in the checks array?**
 
-Add your answer here.
+(check_service, check_port, check_http, check_disk, and check_memory)
 
 ---
 
 **2. How does the `for` loop use that array?**
 
-Add your answer here.
+The for loop goes through each function name in the checks array and runs each health check one after another.
 
 ---
 
 **3. Why are the health checks separated into functions?**
 
-Add your answer here.
+Separating the health checks into functions makes the script easier to organize, reuse, and maintain.
 
 ---
 
 **4. What is the purpose of `$(...)` in this script?**
 
-Add your answer here.
+Performs command substitution, allowing the output of a command (such as date, hostname, or curl) to be stored in a variable
 
 ---
 
 **5. Why does the script use different exit codes for HEALTHY, WARN, and FAIL?**
 
-Add your answer here.
+Let automation tools quickly identify whether the system is healthy (0), has warnings (1), or has failures (2).
 
 ---
 
@@ -222,25 +222,25 @@ Answer the following in your own words:
 
 **1. What is the overall status of your healthy baseline?**
 
-Add your answer here.
+The overall status is HEALTHY, as shown in the report summary with PASS: 5, WARN: 0, FAIL: 0.
 
 ---
 
 **2. Which exact Linux evidence proves the application is serving traffic?**
 
-Add your answer here.
+The evidence is [PASS] Local HTTP check returned status 200, which confirms the application is successfully serving HTTP requests.
 
 ---
 
 **3. Did your script return exit code 0 or 1? Explain why.**
 
-Add your answer here.
+The script returned exit code 0 because all five health checks passed and the overall status was HEALTHY.
 
 ---
 
 **4. What is the difference between a warning and a failure in this script?**
 
-Add your answer here.
+A warning indicates a non-critical issue that needs attention, while a failure indicates a critical problem that causes the overall status to become fail.
 
 ---
 
@@ -270,25 +270,25 @@ Answer the following in your own words:
 
 **1. Why does this skill have Bash, Read, and Grep, but not Write?**
 
-Add your answer here.
+The skill only needs to run read-only Linux commands, search for information, and read the generated report, so Bash, Read, and Grep are sufficient. Write is excluded to prevent the skill from modifying files or changing the system.
 
 ---
 
 **2. Why is `disable-model-invocation: true` useful for this skill?**
 
-Add your answer here.
+It ensures the skill follows the predefined steps instead of allowing additional AI reasoning or tool calls that could change the workflow. This makes the health check predictable, consistent, and focused on the collected evidence.
 
 ---
 
 **3. What part is performed by Bash, and what part is performed by Claude?**
 
-Add your answer here.
+Bash runs the health-check script and gathers the server information into the report. Claude reads the report, analyzes the evidence, and produces a concise incident-triage summary with findings and recommendations.
 
 ---
 
 **4. Why is this better than asking Claude "Is my server healthy?" without giving it evidence?**
 
-Add your answer here.
+The report provides real system evidence, allowing Claude to make conclusions based on actual server data instead of guessing. This results in a more accurate and reliable health assessment.
 
 ---
 
@@ -324,31 +324,31 @@ Answer the following in your own words:
 
 **1. Which three checks failed?**
 
-Add your answer here.
+The three failed checks were: Nginx service is not active, Port 80 is not listening, and Local HTTP check returned status 000. These failures show that the web server is stopped and cannot accept HTTP requests.
 
 ---
 
 **2. What evidence supports the conclusion that Nginx is unavailable?**
 
-Add your answer here.
+The report shows that the Nginx service is inactive, port 80 is not listening, and the HTTP request to localhost returned status 000. The service logs also state that nginx.service was stopped and deactivated successfully.
 
 ---
 
 **3. Did Claude execute the recovery command? Why is that important?**
 
-Add your answer here.
+No. Claude only suggested sudo systemctl start nginx for the human to review because the skill instructions explicitly state that it must not execute recovery commands or modify the system.
 
 ---
 
 **4. Which phase of the Agentic Loop is represented by the Bash report?**
 
-Add your answer here.
+The Bash report represents the Observe phase of the Agentic Loop. It collects facts and system evidence about the server's current state.
 
 ---
 
 **5. Which phase is represented by Claude's explanation?**
 
-Add your answer here.
+Claude's explanation represents the Analyze phase of the Agentic Loop. It interprets the collected evidence, identifies the likely cause, and recommends the appropriate next step.
 
 ---
 
@@ -390,31 +390,31 @@ Answer the following in your own words:
 
 **1. What action did you execute manually?**
 
-Add your answer here.
+I manually executed sudo systemctl start nginx to restart the Nginx service. This followed the AI's recommendation but required human approval before execution.
 
 ---
 
 **2. What evidence proves that the service recovered?**
 
-Add your answer here.
+The verification shows systemctl is-active nginx returned active and curl -I http://localhost returned HTTP/1.1 200 OK. The second triage report also confirms PASS: 5 | WARN: 0 | FAIL: 0 and an overall HEALTHY status.
 
 ---
 
 **3. Why is the second triage run necessary?**
 
-Add your answer here.
+The second triage verifies that the recovery actually fixed the problem using fresh evidence. It confirms that all health checks now pass and no issues remain.
 
 ---
 
 **4. What could go wrong if an AI agent automatically restarted every failed service?**
 
-Add your answer here.
+It could restart services at the wrong time, hide the real cause of the failure, or make the situation worse. Requiring human approval helps prevent unsafe or unintended changes.
 
 ---
 
 **5. In one sentence, explain the difference between using AI as a chatbot and using AI in this agentic workflow.**
 
-Add your answer here.
+A chatbot mainly answers questions, while an agentic AI workflow gathers real evidence, analyzes it, and recommends actions within defined safety rules.
 
 ---
 
@@ -422,51 +422,51 @@ Add your answer here.
 
 Fill in all seven sections below in your own words.
 
-**Full Name:** Add your full name here
+**Full Name:** FOLARIN WALE
 
-**Date:** DD/MM/YYYY
+**Date:** 20/07/2026
 
 ---
 
 **1. Reported Symptom**
 
-Add your answer here.
+Nginx was unavailable because the service was inactive, port 80 was not listening, and localhost could not be reached. This indicated that the web server was down.
 
 ---
 
 **2. Evidence Collected**
 
-Add your answer here.
+The health check showed Nginx service is not active, port 80 is not listening, and Local HTTP check returned status 000. The service logs also confirmed that nginx.service was stopped and deactivated successfully.
 
 ---
 
 **3. Most Likely Cause**
 
-Add your answer here.
+The evidence showed that Nginx had been stopped rather than crashed, as the logs recorded a clean shutdown. System resources were healthy, so the issue was not caused by low disk space or memory.
 
 ---
 
 **4. Human-Approved Recovery Action**
 
-Add your answer here.
+The manually executed recovery command was sudo systemctl start nginx. The AI only recommended this action, and the human reviewed and executed it.
 
 ---
 
 **5. Verification**
 
-Add your answer here.
+Recovery was verified because systemctl is-active nginx returned active, curl -I http://localhost returned HTTP/1.1 200 OK, and the second health check reported PASS: 5, WARN: 0, FAIL: 0. This confirmed that Nginx was running normally.
 
 ---
 
 **6. Safety Decision**
 
-Add your answer here.
+The AI skill was allowed to gather and analyze evidence but was not allowed to restart the service automatically. This ensured that any system changes required human approval, reducing the risk of unsafe actions.
 
 ---
 
 **7. Agentic Loop Mapping**
 
-Add your answer here.
+Gather: Bash collected system health data and generated the report. Analyze: Claude interpreted the evidence, Human Act: the user manually restarted Nginx, and Verify: a second triage confirmed that all health checks passed.
 
 ---
 
@@ -478,13 +478,13 @@ Add your answer here.
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+https://www.linkedin.com/posts/wale-folarin-956b6022a_linux-devops-bash-ugcPost-7484960179906646017-itWa/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADl6z1IBZjWVdPX--51VXY7TxU7dXOVzE3c
 
 ---
 
 #### Screenshot — Published LinkedIn post
 
-Add your screenshot here.
+![screenshot](screenshots/link1.png)
 
 ---
 
@@ -492,7 +492,7 @@ Add your screenshot here.
 
 Paste the URL of your GitHub folder or repository containing the assignment files here:
 
-`Add your URL here`
+https://github.com/walefolarin0-glitch/devops-micro-internship-pravinmishra.git
 
 ---
 

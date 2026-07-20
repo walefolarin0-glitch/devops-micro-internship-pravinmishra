@@ -77,7 +77,7 @@ Week 02 → Agentic AI with Claude Code
 [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/)
 
 <!-- Week 03 → Linux & Bash for DevOps -->
-<!-- [![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/) -->
+[![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/)
 
 <!-- Week 04 → Git & GitHub -->
 <!-- [![Week 04 – Git](./badges/week-04.svg)](./week-04-github/) -->

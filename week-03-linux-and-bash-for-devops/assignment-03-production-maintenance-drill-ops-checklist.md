@@ -26,7 +26,7 @@ Verify that the deployed React application is reachable from the browser and con
 
 #### Screenshot 2 — Output of `ip a`
 
-![screenshot](screenshots/ss32.png)
+![screenshot](screenshots/SS32.png)
 
 ---
 

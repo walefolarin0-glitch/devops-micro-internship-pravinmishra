@@ -276,7 +276,7 @@ Publish a LinkedIn post summarizing what you built and what you learned about co
 
 #### LinkedIn Post URL
 
-(https://www.linkedin.com/posts/wale-folarin-956b6022a_dmibypravinmishra-git-github-ugcPost-7485765800935538688-TKyj/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADl6z1IBZjWVdPX--51VXY7TxU7dXOVzE3c)
+https://www.linkedin.com/posts/wale-folarin-956b6022a_dmibypravinmishra-git-github-ugcPost-7485765800935538688-TKyj/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADl6z1IBZjWVdPX--51VXY7TxU7dXOVzE3c
 
 ---
 

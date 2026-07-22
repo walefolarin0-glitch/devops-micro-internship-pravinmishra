@@ -204,7 +204,7 @@ Push your branch and open a real Pull Request, using `/pr-ready`'s drafted title
 
 #### PR Link
 
-Add your PR URL here...
+(https://github.com/walefolarin0-glitch/devops-micro-internship-pravinmishra/pull/1)
 
 ---
 
@@ -212,19 +212,19 @@ Add your PR URL here...
 
 **1. What, if anything, did you edit in the AI's drafted PR description before using it? Why?**
 
-Add your answer here.
+I did not edit anything
 
 ---
 
 **2. If you had blindly copy-pasted the AI's draft without reading it, what could go wrong?**
 
-Add your answer here.
+The AI could make mistake, Its imoprtant to always review.
 
 ---
 
 **3. Why does this PR need to target your own fork instead of the shared upstream repository?**
 
-Add your answer here.
+The PR targets my own fork because I have permission to push branches and create pull requests there
 
 ---
 
@@ -276,7 +276,7 @@ Publish a LinkedIn post summarizing what you built and what you learned about co
 
 #### LinkedIn Post URL
 
-Add your LinkedIn post URL here...
+(https://www.linkedin.com/posts/wale-folarin-956b6022a_dmibypravinmishra-git-github-ugcPost-7485765800935538688-TKyj/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADl6z1IBZjWVdPX--51VXY7TxU7dXOVzE3c)
 
 ---
 
@@ -306,7 +306,7 @@ Add 3-5 bullet points on what you learned this week.
 
 Paste your forked repository URL here:
 
-`Add your URL here`
+https://github.com/walefolarin0-glitch/devops-micro-internship-pravinmishra.git
 
 ---
 

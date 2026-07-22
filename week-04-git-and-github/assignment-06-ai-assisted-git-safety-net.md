@@ -204,7 +204,7 @@ Push your branch and open a real Pull Request, using `/pr-ready`'s drafted title
 
 #### PR Link
 
-(https://github.com/walefolarin0-glitch/devops-micro-internship-pravinmishra/pull/1)
+https://github.com/walefolarin0-glitch/devops-micro-internship-pravinmishra/pull/1
 
 ---
 
@@ -284,9 +284,9 @@ https://www.linkedin.com/posts/wale-folarin-956b6022a_dmibypravinmishra-git-gith
 
 Add 3-5 bullet points on what you learned this week.
 
--
--
--
+- Built a Git pre-commit hook that automatically blocks commits containing hardcoded secrets and oversized files before they enter the repository.
+- Developed a Claude Code /pr-ready skill that reviews staged changes, detects issues like debug statements, and drafts Pull Request titles and descriptions without modifying Git history.
+- Combined rule-based automation with AI-assisted review to create a safer Git workflow where every commit, push, and Pull Request remains a deliberate human decision.
 
 ---
 

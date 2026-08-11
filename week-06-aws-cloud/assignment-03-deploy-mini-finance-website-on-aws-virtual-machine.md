@@ -60,7 +60,7 @@ Take one screenshot showing the Mini Finance website running in the browser.
 
 Paste the public IP address of your EC2 instance here (e.g. `http://3.91.105.10`):
 
-`http://18.215.163.174/
+http://18.215.163.174/
 
 ---
 

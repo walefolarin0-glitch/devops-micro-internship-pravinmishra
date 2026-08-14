@@ -136,7 +136,7 @@ Week 02 → Agentic AI with Claude Code
 | 03 | Linux & Bash for DevOps | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/wale-folarin-956b6022a_devops-linux-ubuntu-ugcPost-7484280714356596736-EPU9/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADl6z1IBZjWVdPX--51VXY7TxU7dXOVzE3c| https://medium.com/@folarinwale834/from-commands-to-automation-my-first-steps-with-bash-scripting-64a3c194982b |
 | 04 | Git & GitHub | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/wale-folarin-956b6022a_dmibypravinmishra-git-github-ugcPost-7485765800935538688-TKyj/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADl6z1IBZjWVdPX--51VXY7TxU7dXOVzE3c| https://medium.com/@folarinwale834/i-built-two-safety-nets-for-git-one-used-rules-the-other-used-ai-98a4a18f5648 |
 | 05 | DevOps Lifecycle & Agile | ✅ Completed | ✅ Solved| https://www.linkedin.com/posts/wale-folarin-956b6022a_dmibypravinmishra-devops-agenticai-ugcPost-7487845617730215936-XQ1r/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADl6z1IBZjWVdPX--51VXY7TxU7dXOVzE3c | https://medium.com/@folarinwale834/from-ideas-to-execution-planning-a-devops-website-project-with-jira-scrum-94477c17bbe4 |
-| 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
+| 06 | AWS Cloud | 🔄 In Progress | ⏳ Pending | https://www.linkedin.com/posts/wale-folarin-956b6022a_dmibypravinmishra-devops-agenticai-share-7494020870265491456-upKK/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADl6z1IBZjWVdPX--51VXY7TxU7dXOVzE3c | — |
 | 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 08 | Terraform | ⬜ Not Started | ⏳ Pending | — | — |
 | 09 | Ansible | ⬜ Not Started | ⏳ Pending | — | — |

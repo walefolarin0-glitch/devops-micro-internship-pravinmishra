@@ -20,7 +20,7 @@ Create an architecture diagram showing the custom VPC (10.0.0.0/16), the six sub
 
 #### Diagram image or link
 
-Add your diagram image or link here.
+![screenshot](screenshots/ac.png)
 
 ---
 
@@ -34,13 +34,23 @@ Record the AWS Region used and list every AWS service used across networking, co
 
 **Region:**
 
-Write your answer here.
+US-east-1
 
 ---
 
 **Services:**
-
-Write your answer here.
+VPC
+RDS
+Load Balancer
+Target Group
+Auto Scaling Group
+Subnet
+NACL
+Routing Table
+Network Security Group
+Internet Gateway
+Elastic IP
+NAT Gatway
 
 ---
 
@@ -56,7 +66,7 @@ Confirm the Book Review App loads through the public ALB DNS name.
 
 Paste your public ALB DNS name here:
 
-`Add your URL here`
+Book-Review-Web-ALB-1977824619.us-east-1.elb.amazonaws.com
 
 ---
 
@@ -70,37 +80,37 @@ Capture visual proof of every tier and load balancer.
 
 #### Web EC2
 
-Add your screenshot here.
+![screenshot](screenshots/w1.png)
 
 ---
 
 #### App EC2
 
-Add your screenshot here.
+![screenshot](screenshots/w2.png)
 
 ---
 
 #### Public ALB
 
-Add your screenshot here.
+![screenshot](screenshots/w3.png)
 
 ---
 
 #### Internal ALB
 
-Add your screenshot here.
+![screenshot](screenshots/w4.png)
 
 ---
 
 #### RDS + Replica
 
-Add your screenshot here.
+![screenshot](screenshots/w6.png)
 
 ---
 
 #### App UI proof
 
-Add your screenshot here.
+![screenshot](screenshots/w5.png)
 
 ---
 
@@ -114,19 +124,19 @@ Summarize what worked in the final deployment, the issues encountered and how ea
 
 **What worked:**
 
-Write your answer here.
+I was able to deploy my app
 
 ---
 
 **Issues + fixes:**
 
-Write your answer here.
+I had a mix match attachment of security group, I assigned the correct scurity group to the backend.
 
 ---
 
 **Tools/sources used:**
 
-Write your answer here.
+Claude
 
 ---
 
@@ -142,13 +152,13 @@ Publish a LinkedIn post sharing the capstone deployment, including the public AL
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+https://www.linkedin.com/posts/wale-folarin-956b6022a_dmibypravinmishra-devops-agenticai-share-7494020870265491456-upKK/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADl6z1IBZjWVdPX--51VXY7TxU7dXOVzE3c
 
 ---
 
 #### Screenshot of LinkedIn post
 
-Add your screenshot here.
+![screenshot](screenshots/a01.png)
 
 ---
 
